@@ -68,7 +68,6 @@
     <Compile Include="ILogAnalyticsDownloader.cs" />
     <Compile Include="ILogAnalyticsParser.cs" />
     <Compile Include="LogAnalyticsDownloader.cs" />
-    <Compile Include="LogAnalyticsParser.cs" />
     <Compile Include="LogSearchQuery.cs" />
     <Compile Include="Model.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
